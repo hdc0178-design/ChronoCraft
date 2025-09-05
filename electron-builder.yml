@@ -1,8 +1,8 @@
-appId: 'launcherDemo'
-productName: 'LauncherDemo'
+appId: 'ChronoCraft'
+productName: 'ChronoCraft'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2024 babybear (original author: © 2018-2024 Daniel Scalzi)'
+copyright: 'Copyright © 2025 babybear (original author: © 2018-2024 Daniel Scalzi)'
 
 asar: true
 compression: 'maximum'
